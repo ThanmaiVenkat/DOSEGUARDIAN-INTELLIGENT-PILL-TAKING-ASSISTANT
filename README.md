@@ -30,12 +30,18 @@ This project demonstrates **real-time embedded programming**, **peripheral inter
 
 ## 🧠 System Features
 
-✔ Real-time clock based reminder
+✔ Real-time clock based reminder 
+
 ✔ User-editable medicine time
+
 ✔ Audible alert using buzzer
+
 ✔ Visual alert using LED
+
 ✔ LCD status messages
+
 ✔ Timeout detection for missed medicine
+
 ✔ Modular and reusable code structure
 
 ---
